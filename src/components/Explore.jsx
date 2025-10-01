@@ -78,7 +78,7 @@ function Explore() {
 
           {!authUser ? (
             <div className="text-center mt-10">
-              <p className="text-lg font-semibold">
+              <p className="text-2xl font-semibold">
                 Login for more!
               </p>
             </div>
